@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="file_uri" translatable="false">com.prominentdev.blog.provider</string>
+    <string name="client_id">247888764514-jmrglokg9o7qelq7cq62dalvjb9a130u.apps.googleusercontent.com</string>
+    <string name="content_description">Image</string>
+    <string name="back_pressed">Please click BACK again to exit from app</string>
+    <string name="signout">Signout</string>
+    <string name="check_internet_connection">Please check internet connectivity</string>
+    <string name="write_something_here">Write something here..</string>
+    <string name="redsox">Redsox</string>
+    <string name="eagles">Eagles</string>
+    <string name="patriots">Patriots</string>
+    <string name="post">POST</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="no_more_result">No more result</string>
+    <string name="unable_to_connect">Unable to connect to server</string>
+    <string name="ucrop_invalid_image">Image should be in either of img, jpg, jpeg, gif or png format</string>
+    <string name="ucrop_unexpected_error">Unexpected error</string>
+    <string name="ucrop_retrieve_error">Unable to retrieve the selected image</string>
+    <string name="dialog_edit_link">Edit Link</string>
+
+    <array name="select_image_from">
+        <item>Capture Image</item>
+        <item>From Gallery</item>
+    </array>
+
+    <!-- Menu -->
+    <string name="menu_undo">Undo</string>
+    <string name="menu_redo">Redo</string>
+    <string name="menu_github">GitHub</string>
+
+    <!-- Dialog -->
+    <string name="dialog_title">Insert link</string>
+    <string name="dialog_edit_hint">http(s)://</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_button_cancel">Cancel</string>
+
+    <!-- Toast -->
+    <string name="toast_bold">Bold</string>
+    <string name="toast_italic">Italic</string>
+    <string name="toast_underline">Underline</string>
+    <string name="toast_strikethrough">Strikethrough</string>
+    <string name="toast_bullet">Bullet</string>
+    <string name="toast_quote">Quote</string>
+    <string name="toast_insert_link">Insert link</string>
+    <string name="toast_format_clear">Format clear</string>
+
+    <string name="app_repo">https://github.com/mthli/Knife</string>
+
+</resources>
